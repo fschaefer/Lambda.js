@@ -1,0 +1,4 @@
+Authors ordered by first contribution.
+
+Oliver Steele <steele@osteele.com>
+Florian Schäfer <florian.schaefer@gmail.com>

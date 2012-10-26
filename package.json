@@ -1,0 +1,26 @@
+{
+    "name": "Lambda.js",
+    "description": "String based lambdas for Node.js and the browser, that allow strings such as 'x+1' and 'x -> x+1' to be used as functions.",
+    "homepage": "https://github.com/fschaefer/Lambda.js",
+    "author": "Florian Schäfer",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/fschaefer/Lambda.js.git"
+    },
+    "keywords": [
+        "anonymous",
+        "expression",
+        "function",
+        "lambda"
+    ],
+    "bugs": {
+        "email": "florian.schaefer+Lambda.js@gmail.com",
+        "url": "https://github.com/fschaefer/Lambda.js/issues"
+    },
+    "dependencies": {},
+    "devDependencies": {},
+    "contributors": [],
+    "engine": "node >= 0.8.0",
+    "main": "Timer.js",
+    "version": "0.0.1"
+}
